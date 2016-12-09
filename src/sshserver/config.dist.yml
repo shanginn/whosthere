@@ -1,0 +1,9 @@
+HostKey: |
+  -----BEGIN RSA PRIVATE KEY-----
+  PRIVATE SERVER KEY CONTENT HERE
+  -----END RSA PRIVATE KEY-----
+UserAgent: "whosthere"
+GitHubID: "0000000"
+GitHubSecret: "000000000000000000000000000000000000"
+MySQL: "user:pass@/db_name"
+Listen: ":2222"

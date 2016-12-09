@@ -1,0 +1,5 @@
+config.yml
+/pkg
+/bin
+/src/sshserver/sshserver
+/src/db
