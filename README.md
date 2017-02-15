@@ -22,7 +22,7 @@ Ben Cox [собрал все ключи](https://blog.benjojo.co.uk/post/auditin
 
 ## Как запустить
 
-Для начала скачайте, распакуйте и залейте в mysql [базу ключей](https://github.com/shanginn/github_public_keys_database).
+Для начала скачайте, распакуйте и залейте в mysql [базу ключей](https://yadi.sk/d/TjeKTLOG3E8Xgt).
 
 Затем идите в `./src/sshserver/`.
 
