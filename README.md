@@ -88,4 +88,4 @@ Host github.com
 Если вам понравилось, то сперва угостите [автора оригинально идеи](https://github.com/FiloSottile/whosthere),
 а потом и меня :)
 
-bitcoin:3BHcLip7JPRV3F3XQDAdhfwFPMM8zhemo4
+bitcoin:1H7GXLYRXieWCXB3NomXC9P1M8w3iK4n9Y
