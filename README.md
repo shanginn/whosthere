@@ -84,7 +84,4 @@ Host github.com
 
 ## Донат
 
-Если вам понравилось, то сперва угостите [автора оригинально идеи](https://github.com/FiloSottile/whosthere),
-а потом и меня :)
-
-bitcoin:1H7GXLYRXieWCXB3NomXC9P1M8w3iK4n9Y
+Если вам понравилось, то благодарите [автора оригинально идеи](https://github.com/FiloSottile/whosthere)
